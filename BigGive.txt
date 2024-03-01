@@ -1,0 +1,8 @@
+how to add an image
+how to style the page
+how to create a new page
+how to create a page that connects to mysql server
+button validation
+Create a text box and drop down
+populate drop down from cs page from controller
+how to create a Model (class)
